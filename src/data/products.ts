@@ -386,7 +386,7 @@ export const products: Product[] = [
     model: 'USW-Enterprise-24-PoE',
     category: 'switch',
     subcategory: 'enterprise',
-    price: 135000,
+    price: 137272,
     inStock: true,
     description: '24ポート2.5GbE PoEスイッチ。400W PoE供給、10G SFP+アップリンク。',
     specs: {
@@ -1112,7 +1112,7 @@ export const products: Product[] = [
     model: 'U7-Pro-XGS',
     category: 'wifi',
     subcategory: 'flagship',
-    price: 43636,
+    price: 49091,
     inStock: true,
     description: 'WiFi 7最上位AP。8空間ストリーム（5GHz 4x4）、10Gアップリンク、専用スペクトルスキャンラジオ、Zero Wait DFS対応。',
     specs: {
@@ -1137,7 +1137,7 @@ export const products: Product[] = [
     category: 'wifi',
     subcategory: 'flagship',
     price: 35454,
-    inStock: true,
+    inStock: false,
     description: 'WiFi 7高性能AP。8空間ストリーム（5GHz 4x4）、2.5Gアップリンク、専用スペクトルスキャンエンジン搭載。',
     specs: {
       wifiStandard: 'WiFi 7',
@@ -1208,7 +1208,7 @@ export const products: Product[] = [
     model: 'U7-Pro',
     category: 'wifi',
     subcategory: 'flagship',
-    price: 27273,
+    price: 29818,
     inStock: true,
     description: 'WiFi 7プロフェッショナルAP。6空間ストリーム、2.5Gアップリンク。',
     specs: {
@@ -1328,7 +1328,7 @@ export const products: Product[] = [
     model: 'U6-Pro',
     category: 'wifi',
     subcategory: 'flagship',
-    price: 23636,
+    price: 26091,
     inStock: true,
     description: 'WiFi 6プロフェッショナルAP。6空間ストリーム、高性能デュアルバンド。',
     specs: {

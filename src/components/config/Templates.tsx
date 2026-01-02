@@ -30,12 +30,12 @@ const templates: ConfigTemplate[] = [
   {
     id: 'home-office',
     name: 'ホームオフィス',
-    description: '在宅勤務向け。U7 Pro Maxで高速・安定接続。',
+    description: '在宅勤務向け。U7 Proで高速・安定接続。',
     icon: '💼',
     items: [
       { productId: 'ux7', quantity: 1 },
       { productId: 'usw-pro-max-16-poe', quantity: 1 },
-      { productId: 'u7-pro-max', quantity: 1 },
+      { productId: 'u7-pro', quantity: 1 },
       { productId: 'uacc-dac-sfp10-1m', quantity: 2 },
     ],
   },
